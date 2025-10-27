@@ -63,7 +63,7 @@ employee-directory/
 ## 👨‍💻 Author
 
 **Thanushkumar**  
-📧 Email: [your.email@example.com]  
+📧 Email: [my.email@example.com]  
 🌐 GitHub: [thanushkumar9787-design](https://github.com/thanushkumar9787-design)
 
 ---
